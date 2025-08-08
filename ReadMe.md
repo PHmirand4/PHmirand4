@@ -4,6 +4,7 @@
 👨🏻‍💻 - Técnico em Redes de Computadores<br>
 🎓 - Projetista / Maker<br>
 ---------------------------------------------<br>
+Linkedin: https://www.linkedin.com/in/pedro-henrique-miranda-de-oliveira
 Lattes: https://lattes.cnpq.br/9872729728641938 <br>
 
 ## 🌐 Socials:
