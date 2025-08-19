@@ -2,7 +2,7 @@
 🧑🏻‍💻- Engenharia de Computação (Graduando)<br>
 🧑🏻‍🏫- IFF - Bom Jesus do Itabapoana<br>
 👨🏻‍💻 - Técnico em Redes de Computadores<br>
-🎓 - Projetista / Maker<br>
+🎓 - Dev / Projetista / Maker<br>
 ---------------------------------------------<br>
 Linkedin: https://www.linkedin.com/in/pedro-henrique-miranda-de-oliveira
 
@@ -22,9 +22,7 @@ Linkedin: https://www.linkedin.com/in/pedro-henrique-miranda-de-oliveira
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
